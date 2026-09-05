@@ -10,7 +10,7 @@
 
 VLESS, Trojan, Shadowsocks, gRPC, XHTTP over WebSocket + TLS, with a bilingual panel.
 (English + فارسی), per-ISP clean-IP optimization, multi-user accounts, a Telegram bot,
-WARP, proxy chaining, and a Backend mode. Runs on Cloudflare's **free plan**.
+WARP, proxy chaining, and a Backend mode. Runs on Cloudflare's **free plan**..
 
 [![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-green?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/version-4.7.4-blueviolet?style=for-the-badge)](https://github.com/IRNova/Nova-Proxy)
