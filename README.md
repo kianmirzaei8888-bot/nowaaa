@@ -8,7 +8,7 @@
 
 **Your own censorship-resistant proxy with a full admin panel, on a single Cloudflare Worker.**
 
-VLESS, Trojan, Shadowsocks, gRPC, XHTTP over WebSocket + TLS, with a bilingual panel.
+VLESS, Trojan, Shadowsocks, gRPC, XHTTP over WebSocket + TLS, with a bilingual panel..
 (English + فارسی), per-ISP clean-IP optimization, multi-user accounts, a Telegram bot,
 WARP, proxy chaining, and a Backend mode. Runs on Cloudflare's **free plan**..
 
